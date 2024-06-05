@@ -28,7 +28,7 @@ The project uses the YOLOv8-seg.pt pre-trained model, which is specifically desi
 To run this project, you need to have Python and the necessary libraries installed. Follow the steps below to set up the environment:
 
 # Clone the Repository:
-1. git clone https://github.com/your-username/car-image-segmentation-yolov8.git
+1. git clone https://github.com/your-username/car_segmentation_using_yolov8n-seg.git
 2. cd car-image-segmentation-yolov8
 
 # Create a Virtual Environment:
