@@ -1,8 +1,8 @@
 # Car Image Segmentation using YOLOv8
 This project utilizes the YOLOv8 pre-trained model for segmenting car images. The goal is to accurately detect and segment cars from images, providing instance segmentation masks for each car detected.
 # Table of Contents
-. Introduction
-. Features
+1. Introduction
+2. Features
 . Dataset
 . Model
 . Installation
