@@ -3,7 +3,7 @@ This project utilizes the YOLOv8 pre-trained model for segmenting car images. Th
 # Table of Contents
 1. Introduction
 2. Features
-. Dataset
+3. Dataset
 . Model
 . Installation
  .Usage
